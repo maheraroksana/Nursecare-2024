@@ -1,0 +1,5 @@
+Mean Score,Parameters
+0.4684136289538329,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, random_state=42), 'classifier__class_weight': None}"
+0.4760530138622657,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}}"
+0.4654491650277602,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}}"
+0.4681677077126376,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}}"

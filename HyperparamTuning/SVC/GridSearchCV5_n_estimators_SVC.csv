@@ -1,0 +1,6 @@
+Mean Score,Parameters
+0.1477954399132955,"{'classifier': SVC(C=100, random_state=42), 'classifier__C': 0.01}"
+0.20167197597305025,"{'classifier': SVC(C=100, random_state=42), 'classifier__C': 0.1}"
+0.3064509970156789,"{'classifier': SVC(C=100, random_state=42), 'classifier__C': 1}"
+0.4855916914502276,"{'classifier': SVC(C=100, random_state=42), 'classifier__C': 10}"
+0.525350481143002,"{'classifier': SVC(C=100, random_state=42), 'classifier__C': 100}"

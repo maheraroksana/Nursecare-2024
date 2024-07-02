@@ -1,0 +1,5 @@
+Mean Score,Parameters
+0.4433277102894378,"{'classifier': RandomForestClassifier(random_state=42), 'classifier__n_estimators': 10}"
+0.4647376572083923,"{'classifier': RandomForestClassifier(random_state=42), 'classifier__n_estimators': 50}"
+0.4684136289538329,"{'classifier': RandomForestClassifier(random_state=42), 'classifier__n_estimators': 100}"
+0.46643603196160655,"{'classifier': RandomForestClassifier(random_state=42), 'classifier__n_estimators': 250}"

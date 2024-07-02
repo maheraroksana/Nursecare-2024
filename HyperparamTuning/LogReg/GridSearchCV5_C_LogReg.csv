@@ -1,0 +1,6 @@
+Mean Score,Parameters
+0.29676585557313173,"{'classifier': LogisticRegression(C=10, random_state=42), 'classifier__C': 0.01}"
+0.3820240489896856,"{'classifier': LogisticRegression(C=10, random_state=42), 'classifier__C': 0.1}"
+0.42168193679091315,"{'classifier': LogisticRegression(C=10, random_state=42), 'classifier__C': 1}"
+0.42661935794625966,"{'classifier': LogisticRegression(C=10, random_state=42), 'classifier__C': 10}"
+0.4247730494903806,"{'classifier': LogisticRegression(C=10, random_state=42), 'classifier__C': 100}"

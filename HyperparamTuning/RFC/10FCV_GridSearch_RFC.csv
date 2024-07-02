@@ -1,0 +1,97 @@
+,Mean Score,Parmeters
+0,0.591716146859756,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': None, 'classifier__max_depth': 5, 'classifier__n_estimators': 10}"
+1,0.5866710743241239,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': None, 'classifier__max_depth': 5, 'classifier__n_estimators': 50}"
+2,0.5854358707030638,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': None, 'classifier__max_depth': 5, 'classifier__n_estimators': 100}"
+3,0.582966099180769,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': None, 'classifier__max_depth': 5, 'classifier__n_estimators': 250}"
+4,0.6009789025780558,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': None, 'classifier__max_depth': 10, 'classifier__n_estimators': 10}"
+5,0.6139502358520554,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': None, 'classifier__max_depth': 10, 'classifier__n_estimators': 50}"
+6,0.6143626061122343,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': None, 'classifier__max_depth': 10, 'classifier__n_estimators': 100}"
+7,0.6129232304738655,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': None, 'classifier__max_depth': 10, 'classifier__n_estimators': 250}"
+8,0.5930580454582056,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': None, 'classifier__max_depth': 20, 'classifier__n_estimators': 10}"
+9,0.6172478205405314,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': None, 'classifier__max_depth': 20, 'classifier__n_estimators': 50}"
+10,0.6222914097299039,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': None, 'classifier__max_depth': 20, 'classifier__n_estimators': 100}"
+11,0.6228044356291295,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': None, 'classifier__max_depth': 20, 'classifier__n_estimators': 250}"
+12,0.5855429894936702,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}, 'classifier__max_depth': 5, 'classifier__n_estimators': 10}"
+13,0.5881134166550118,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}, 'classifier__max_depth': 5, 'classifier__n_estimators': 50}"
+14,0.5840987400033059,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}, 'classifier__max_depth': 5, 'classifier__n_estimators': 100}"
+15,0.5847151763274889,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}, 'classifier__max_depth': 5, 'classifier__n_estimators': 250}"
+16,0.6008825910244837,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}, 'classifier__max_depth': 10, 'classifier__n_estimators': 10}"
+17,0.6120977482803779,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}, 'classifier__max_depth': 10, 'classifier__n_estimators': 50}"
+18,0.6129204756879548,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}, 'classifier__max_depth': 10, 'classifier__n_estimators': 100}"
+19,0.6131267667713485,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}, 'classifier__max_depth': 10, 'classifier__n_estimators': 250}"
+20,0.5985152763474082,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}, 'classifier__max_depth': 20, 'classifier__n_estimators': 10}"
+21,0.6191999042182129,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}, 'classifier__max_depth': 20, 'classifier__n_estimators': 50}"
+22,0.6208485376324946,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}, 'classifier__max_depth': 20, 'classifier__n_estimators': 100}"
+23,0.6251695252868157,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 5}, 'classifier__max_depth': 20, 'classifier__n_estimators': 250}"
+24,0.5770994647239068,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}, 'classifier__max_depth': 5, 'classifier__n_estimators': 10}"
+25,0.5761721614050256,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}, 'classifier__max_depth': 5, 'classifier__n_estimators': 50}"
+26,0.5720562993477515,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}, 'classifier__max_depth': 5, 'classifier__n_estimators': 100}"
+27,0.5729807419274178,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}, 'classifier__max_depth': 5, 'classifier__n_estimators': 250}"
+28,0.6068456429882223,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}, 'classifier__max_depth': 10, 'classifier__n_estimators': 10}"
+29,0.6126108801329079,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}, 'classifier__max_depth': 10, 'classifier__n_estimators': 50}"
+30,0.6113752526986307,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}, 'classifier__max_depth': 10, 'classifier__n_estimators': 100}"
+31,0.6103466580208771,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}, 'classifier__max_depth': 10, 'classifier__n_estimators': 250}"
+32,0.5936766008484742,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}, 'classifier__max_depth': 20, 'classifier__n_estimators': 10}"
+33,0.6169352582929652,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}, 'classifier__max_depth': 20, 'classifier__n_estimators': 50}"
+34,0.6164215966739139,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}, 'classifier__max_depth': 20, 'classifier__n_estimators': 100}"
+35,0.6210534513229329,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 10}, 'classifier__max_depth': 20, 'classifier__n_estimators': 250}"
+36,0.5398386543082732,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}, 'classifier__max_depth': 5, 'classifier__n_estimators': 10}"
+37,0.5464240759812335,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}, 'classifier__max_depth': 5, 'classifier__n_estimators': 50}"
+38,0.5507456993553802,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}, 'classifier__max_depth': 5, 'classifier__n_estimators': 100}"
+39,0.5475562929905532,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}, 'classifier__max_depth': 5, 'classifier__n_estimators': 250}"
+40,0.58378967421478,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}, 'classifier__max_depth': 10, 'classifier__n_estimators': 10}"
+41,0.5950103410424958,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}, 'classifier__max_depth': 10, 'classifier__n_estimators': 50}"
+42,0.5995383614533403,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}, 'classifier__max_depth': 10, 'classifier__n_estimators': 100}"
+43,0.6047866524265426,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}, 'classifier__max_depth': 10, 'classifier__n_estimators': 250}"
+44,0.5979961051565355,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}, 'classifier__max_depth': 20, 'classifier__n_estimators': 10}"
+45,0.6175543434497548,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}, 'classifier__max_depth': 20, 'classifier__n_estimators': 50}"
+46,0.6203354057799646,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}, 'classifier__max_depth': 20, 'classifier__n_estimators': 100}"
+47,0.6204361673723157,"{'classifier': RandomForestClassifier(class_weight={0: 1, 1: 5}, max_depth=20,
+                       n_estimators=250, random_state=42), 'classifier__class_weight': {0: 1, 1: 25}, 'classifier__max_depth': 20, 'classifier__n_estimators': 250}"
